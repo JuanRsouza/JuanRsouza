@@ -17,9 +17,6 @@ Estudante de Desenvolvimento Web na Trybe.
 - Tenho 24 anos e estou migrando de carreira. <br/>
 - Sou formado em Gestão Pública. <br />
 
- 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DarioJunior&count_private=false&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=2E8B57" alt="Dário Junior" />
-</p>
 <strong>Linguagens e ferramentas:</strong> <br/><br/>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
