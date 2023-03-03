@@ -13,7 +13,7 @@ Estudante de Desenvolvimento Web na Trybe.
 <strong>Um pouco sobre mim:</strong> <br />
   
   - Atualmente sou estudante de Desenvolvimento Web. <br />
-- Sou proativo, curioso e gosto de semore aprender algo novo. <br/>
+- Sou proativo, curioso e gosto de sempre estar estudando algo novo. <br/>
 - Tenho 24 anos e estou migrando de carreira. <br/>
 - Sou formado em Gestão Pública. <br />
 
