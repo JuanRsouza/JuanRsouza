@@ -16,6 +16,8 @@ Estudante de Desenvolvimento Web na Trybe.
 - Sou proativo, curioso e gosto de sempre estar estudando algo novo. <br/>
 - Tenho 24 anos e estou migrando de carreira. <br/>
 - Sou formado em Gestão Pública. <br />
+- Linkedin: https://www.linkedin.com/in/juan-ribeiros/.
+- Email: juan.ribeiro3@outlook.com
 
 <strong>Linguagens e ferramentas:</strong> <br/><br/>
 <p align="left">
