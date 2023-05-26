@@ -6,13 +6,12 @@
 🌎 &nbsp&nbsp Atualmente moro em Belo Horizonte/MG.<br />
 <img align="left" src="https://emoji.slack-edge.com/TMDDFEPFU/trybe_logoverde/1ff4f04c05e88868.png" width="20px" height="20px">
 </a> 
-Estudante de Desenvolvimento Web na Trybe.
+Desenvolvedor Full-Stack.
 </p>
 <hr />
 <p>
 <strong>Um pouco sobre mim:</strong> <br />
   
-- Desenvolvedor Full-Stack. <br />
 - Sou proativo, curioso e gosto de sempre estar estudando algo novo. <br/>
 - Tenho 24 anos e estou migrando de carreira. <br/>
 - Sou formado em Gestão Pública. <br />
